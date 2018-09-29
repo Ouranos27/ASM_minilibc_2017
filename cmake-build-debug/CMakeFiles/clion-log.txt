@@ -1,0 +1,6 @@
+/home/ouranos27/clion-2017.3.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ouranos27/my_desktop/TEK2/ASM/ASM_minilibc_2017
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/cc
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ouranos27/my_desktop/TEK2/ASM/ASM_minilibc_2017/cmake-build-debug
